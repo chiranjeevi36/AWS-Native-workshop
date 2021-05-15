@@ -83,7 +83,7 @@
     <% } %>
     <div class="jumbotron">
       <h1>Bespoke Suits for Dogs</h1>
-      <p><i>Whatever you are, be a DevOps engineer</i></p>
+      <p><i>This is chiranjeevi, i am looking for devops position immediately!</i></p>
       <p><i>I want to be a billionare in india</i></p>
     </div>
     <div class="page-header">
